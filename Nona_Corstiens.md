@@ -10,4 +10,6 @@ https://github.com/mdaelemans/webtech-lab1
 [![grid.png](https://s9.postimg.org/cbgnawd3z/grid.png)](https://postimg.org/image/icec7yzq3/)
 
 ####Repository
-https://github.com/yaspo/Webtech-Lab-2 
+https://codepen.io/nonacorstiens/pen/eMvbdV
+
+ 
